@@ -1,0 +1,6 @@
+{
+  "name": "GoTogether",
+  "description": "A secure and friendly ride-pooling application connecting drivers and passengers to travel together sustainably.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
